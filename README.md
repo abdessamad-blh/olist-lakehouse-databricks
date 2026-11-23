@@ -55,7 +55,7 @@ flowchart LR
 ## Key results
 
 - **Total revenue (delivered orders):** R$ 13.22M
-- **Late deliveries hurt satisfaction:** late orders average a review score of **[X.XX]** vs **[X.XX]** for on-time orders.
+- **Late deliveries hurt satisfaction:** late orders average a review score of 2.57 vs 4.29 for on-time orders.
 - **[One more finding from the dashboard, e.g. the state with the highest late rate or the top category by revenue.]**
 
 ## Screenshots
